@@ -5,8 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Simple Calculator</title>
-<body bgcolor="white">
-	<p>hello this is edited</p>
+<body bgcolor="blue">
+	<p>Edited pages</p>
 	<form method="get" action="./CalcServlet">
 
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>

@@ -7,6 +7,7 @@
 <title>Simple Calculator</title>
 <body bgcolor="blue">
 	<p>Edited pages "hello and hi"</p>
+        <p>this is pull operation</p>
 	<form method="get" action="./CalcServlet">
 
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>
